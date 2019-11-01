@@ -6,7 +6,7 @@
   <tbody>
     <tr>
       <th>Workshop</th>
-      <th align="center">Prerequisites</th>
+      <th align="left">Prerequisites</th>
     </tr>
     <tr>
       <th><a href=https://githubuniverse.com/workshops/#code-and-collaboration-58-the-foundations-of-devops>Code and collaboration: The foundations of DevOps</a></th>
@@ -60,7 +60,7 @@
   <tbody>
     <tr>
       <th>Workshop</th>
-      <th align="center">Prerequisites</th>
+      <th align="left">Prerequisites</th>
     </tr>
     <tr>
       <th><a href=https://githubuniverse.com/workshops/#starting-out-with-graphql>Starting out with GraphQL</a></th>
