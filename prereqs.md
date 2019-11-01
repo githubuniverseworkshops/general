@@ -1,13 +1,6 @@
 # Prerequisites for the Universe Workshop
 
 ## Automate track
-| Workshop      | Prerequisites |
-| ------------- |:--------------|
-|      | - GitHub Account <br>- Familiarity with DevOps principles <br>- Familiarity with Git and GitHub | 
-|     | centered      | 
-|  | are neat      | 
-| | |
-
 
 <table>
   <tbody>
