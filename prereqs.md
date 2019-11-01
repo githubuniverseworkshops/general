@@ -2,7 +2,7 @@
 
 ## Automate track
 
-<table>
+<table align="left">
   <tbody>
     <tr>
       <th>Workshop</th>
