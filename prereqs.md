@@ -48,7 +48,7 @@
       <td>
         <ul>
            <li>GitHub Account</li>
-           <li>Familia rity with DevOps principles</li>
+           <li>Familiarity with DevOps principles</li>
            <li>Familiarity with Git and GitHub</li>        </ul>
        </td>
     </tr>
