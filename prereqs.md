@@ -39,8 +39,8 @@
           <li>Sign up for the <a href=https://github.com/features/actions/signup/?account=>GitHub Actions beta</a></li>
            <li>Sign up for the <a href="https://github.com/features/package-registry">GitHub Package Registry beta</a></li>
            <li>Create a <a href="https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line">GitHub Personal Access Token</a> for your account.</li>
-           <li><a href="https://portal.aws.amazon.com/billing/signup?p=s3&amp;cp=bn&amp;ad=p#/start">Create an AWS Account</a> </li>
-           <li>Create an <a href="https://aws.amazon.com/s3/getting-started/?nc=sn&amp;loc=5">AWS S3 bucket</a></li>
+           <li><a href="https://portal.aws.amazon.com/billing/signup?p=s3&amp;cp=bn&amp;ad=p#/start">Create an AWS Account</a>. You will need to provide your CLI user with Lambda, CloudFormation and APIGatewayAdministration access.</li>
+           <li>Create an <a href="https://aws.amazon.com/s3/getting-started/?nc=sn&amp;loc=5">AWS S3 bucket</a>. If you have not done so, you will need to sign up for S3 in addition to your standard AWS account</li>
            <li>Both <a href="https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html#access-keys-and-secret-access-keys">AWS Secret key and AWS Access Key</a></li>
         </ul>
        </td>
